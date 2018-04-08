@@ -1,3 +1,3 @@
 # DDP_CourseProject
-# Coursera course Developing Data Products - course Project - stock data plotting application.
+# Coursera course Developing Data Products - stock data plotting application using R shiny.
 #
